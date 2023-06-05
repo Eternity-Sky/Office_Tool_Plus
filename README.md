@@ -14,5 +14,5 @@ viso作品
 
 GitHub：https://github.com/YerongAI/Office-Tool
 3 .  这不是Office Toll官方仓库，只是下载之后上传
-4 .  教程见[输入链接说明](https://zhuanlan.zhihu.com/p/350520662)
+4 .  教程见[这里](https://zhuanlan.zhihu.com/p/350520662)
 
