@@ -1,11 +1,10 @@
-# 一个viso作品
+# 安装Microsoft365
 
 #### 介绍
-viso作品
+不付费安装Microsoft 365
 
 #### 使用说明
-1 .  你要有Microsoft 365的订阅才能找到Visio软件，没有的话可以使用此软件
-2 .  Office Tool
+1.使用 Office Tool
 个人主页：https://officetool.plus/
 
 官方网站：https://otp.landian.vip/
